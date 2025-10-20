@@ -48,3 +48,12 @@ For the following projects, it is assumed that steps discussed in the PicoMate a
 
 1. Copy `code.py` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
 2. The terminal shows the message whether motion detected or if motion stopped of a human. 
+
+
+### Project 8 - IMU Sensor
+
+1. Copy all files from `project_8_imu_sensor` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
+2. Move the board around. 
+3. Enable the plotter in Mu Editor. Watch raw values and the plotter change based on the movement of the board. 
+
+
