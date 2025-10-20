@@ -62,3 +62,15 @@ For the following projects, it is assumed that steps discussed in the PicoMate a
 1. Copy all files from `project_9_magnetometer` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
 2. Move the board around. Or have some sort of magnetic accessory move around the sensor. 
 3. Enable the plotter in Mu Editor. Watch raw values and the plotter change based on the movement of the board. 
+
+
+### Project 10 - Digital Optical Sensor
+
+1. Copy all files from `project_10_digital_optical_sensor` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
+2. Currently one of the library is missing, thus code does not compile.
+
+
+### Project 11 - Temperature & Humidity Sensor
+
+1. Copy all files from `project_11_temperature_himidity_sensor` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program.
+2. Watch the logs print the temperature and humidity values on the screen.
