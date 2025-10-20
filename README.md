@@ -32,3 +32,5 @@ For the following projects, it is assumed that steps discussed in the PicoMate a
 
 ### Project 5 - OLED Display
 
+1. Copy all files from `project_5_oled_display` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
+2. The display will be showing the message. 
