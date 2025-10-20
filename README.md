@@ -11,3 +11,19 @@ For the following projects, it is assumed that steps discussed in the PicoMate a
 1. Create a `lib` directory on `CIRCUITPY`.
 2. Copy `neopixel.py` into that directory.
 3. Copy `code.py` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
+
+
+### Project 2 - Button
+
+1. Copy `code.py` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program.
+2. Press the button on the board and observe the result on the terminal. 
+
+
+### Project 3 - Rotary Encoder
+
+1. Copy `code.py` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program.
+2. Rotate the know either clockwise or counterclockwise, and try pressing down on the knob. 
+
+
+### Project 4 - Buzzer
+
