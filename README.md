@@ -33,4 +33,11 @@ For the following projects, it is assumed that steps discussed in the PicoMate a
 ### Project 5 - OLED Display
 
 1. Copy all files from `project_5_oled_display` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
-2. The display will be showing the message. 
+2. The display will be showing the message.
+
+
+### Project 6 - PDM Microphone
+
+1. Copy `code.py` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
+2. Enable plotter in Mu Editor after reloading the program. 
+3. Proceed to speak or make sound near the mic module and observe the waveform change on your screen.
