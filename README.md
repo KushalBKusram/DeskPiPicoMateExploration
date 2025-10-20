@@ -30,6 +30,7 @@ For the following projects, it is assumed that steps discussed in the PicoMate a
 1. Copy `code.py` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program.
 2. Music should start playing immediately. 
 
+
 ### Project 5 - OLED Display
 
 1. Copy all files from `project_5_oled_display` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
@@ -41,3 +42,9 @@ For the following projects, it is assumed that steps discussed in the PicoMate a
 1. Copy `code.py` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
 2. Enable plotter in Mu Editor after reloading the program. 
 3. Proceed to speak or make sound near the mic module and observe the waveform change on your screen.
+
+
+### Project 7 - Digital PIR Sensor
+
+1. Copy `code.py` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program. 
+2. The terminal shows the message whether motion detected or if motion stopped of a human. 
