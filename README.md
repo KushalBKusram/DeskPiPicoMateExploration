@@ -27,3 +27,8 @@ For the following projects, it is assumed that steps discussed in the PicoMate a
 
 ### Project 4 - Buzzer
 
+1. Copy `code.py` in `CIRCUITPY` and now head to Mu Editor, click on `Ctrl + D` to reload the program.
+2. Music should start playing immediately. 
+
+### Project 5 - OLED Display
+
